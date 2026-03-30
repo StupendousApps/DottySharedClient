@@ -2,5 +2,5 @@
 
 Read:
 
-1. `../StupendousAgents/AGENTS.md`
-2. `../StupendousAgents/.agents/repos/dottysharedclient/README.md`
+1. `../../StupendousOrg/StupendousAgents/AGENTS.md`
+2. `../../StupendousOrg/StupendousAgents/.agents/repos/dottysharedclient/README.md`
